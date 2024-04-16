@@ -1,0 +1,14 @@
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\obj\Debug\net6.0\Sinif taski 16Aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\obj\Debug\net6.0\Sinif taski 16Aprel.AssemblyInfoInputs.cache
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\obj\Debug\net6.0\Sinif taski 16Aprel.AssemblyInfo.cs
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\obj\Debug\net6.0\Sinif taski 16Aprel.csproj.CoreCompileInputs.cache
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\bin\Debug\net6.0\Sinif taski 16Aprel.exe
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\bin\Debug\net6.0\Sinif taski 16Aprel.deps.json
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\bin\Debug\net6.0\Sinif taski 16Aprel.runtimeconfig.json
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\bin\Debug\net6.0\Sinif taski 16Aprel.dll
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\bin\Debug\net6.0\Sinif taski 16Aprel.pdb
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\obj\Debug\net6.0\Sinif taski 16Aprel.dll
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\obj\Debug\net6.0\refint\Sinif taski 16Aprel.dll
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\obj\Debug\net6.0\Sinif taski 16Aprel.pdb
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\obj\Debug\net6.0\Sinif taski 16Aprel.genruntimeconfig.cache
+C:\Users\Heydar\Desktop\Sinif taski 16Aprel\Sinif taski 16Aprel\obj\Debug\net6.0\ref\Sinif taski 16Aprel.dll
